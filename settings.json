@@ -1,0 +1,40 @@
+{
+  "bot": {
+    "token": "MTI0OTA3NzkyMjUyNzA1NTk3NA.G2diYG.TxtKB5n2VaNv6tm8yomzsYs1lGrbBl0L9PewdY",
+    "id": "1249077922527055974",
+    "status": {
+      "activity": "dnd",
+      "text": "%onDutyPolice% kişi şuanda mesaide!",
+      "twitch": "",
+      "status": "dnd"
+    }
+  },
+  "guild": {
+    "id": "1245776816849813615"
+  },
+  "settings": {
+    "departmentName": "sasp",
+    "departmentLogo": "https://media.discordapp.net/attachments/1245776817307123794/1249075606856007861/State_2.0.png?ex=6665fbcf&is=6664aa4f&hm=4873e1b85c09bb3422c0bbb5ec8b219ebe250b5b6622383e8e56bb59b6626180&=&format=webp&quality=lossless&width=692&height=676",
+    "departmentBanner": "https://media.discordapp.net/attachments/1245776817307123794/1249075630717403207/sasp.gif?ex=6665fbd5&is=6664aa55&hm=74d5a2c9e68f3a4a9b96b596145b71d25603242195d1c0e88c3c586c888687a2&=",
+    "departmentColor": "#0000ff",
+    "roles": {
+      "officers": ["1249075803723923527", "1249075821247991888", "1249075836439756970"]
+    },
+    "channels": {
+      "log": "1249075911953879040"
+    },
+    "emojis": {
+      "department": "👮",
+      "on": "🟩",
+      "off": "🟥",
+      "warning": "⚠️",
+      "info": "📋",
+      "clock": "⏲️"
+    }
+  },
+  "commands": {
+    "activeDuty": {
+      "requiredRole": "1249075962445037660"
+    }
+  }
+}
